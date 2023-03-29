@@ -1,0 +1,58 @@
+header 
+    { background-color: #9900FF;
+    width: 100%;
+    height: 150px;
+    }
+footer 
+    { background-color: #990099 ;
+    width: 100%;
+    height: 150px;
+    }
+#aap {
+    background-color: indigo;
+}
+#afb_aap{
+    background-color: purple;
+}
+#bok {
+    background-color: darkmagenta;
+}
+#afb_bok {
+    background-color: darkviolet;
+}
+#noot {
+    background-color: darkslateblue;
+}
+#afb_noot {
+    background-color: blueviolet;
+}
+#duif {
+    background-color: darkorchid;
+ }
+#afb_duif {
+    background-color: fuchsia;
+}
+#mies {
+    background-color: magenta;
+}
+#afb_mies {
+    background-color: slateblue;
+}
+#vuur {
+    background-color: mediumslateblue;
+}
+#afb_vuur {
+    background-color: mediumorchid;
+}
+#wim { 
+    background-color: mediumpurple;
+}
+#afb_wim {
+    background-color: orchid;
+}
+#lam {
+    background-color: violet;
+}
+#afb_lam {
+    background-color: plum;
+}
